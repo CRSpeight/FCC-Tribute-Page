@@ -1,0 +1,23 @@
+#img-div {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#img-caption {
+  font-style: italic;
+}
+
+#image {
+  max-width: 100%;
+  border-radius: 15px;
+  display: block;
+}
+
+body {
+  background-color: slategray;
+}
+
+#title {
+  text-align: center;
+}
